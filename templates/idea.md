@@ -1,4 +1,4 @@
-{{date:DD/MM/YYYY}} {{time:HH:mm:ss}}
+{{date:DD/MM/YYYY}} {{time:HH:mm}}
 
 Status: #🌱
 

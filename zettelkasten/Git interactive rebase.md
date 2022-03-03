@@ -2,7 +2,7 @@
 
 Status: #🌱
 
-Tags:
+Tags: [[Git]]
 
 # Git interactive rebase 
 
@@ -15,6 +15,14 @@ This is a simplistic explanation. With git rebase you can do so much more than e
 The command for it is:
 
 	git rebase -i
+	
+The workflow is:
+
+	git log
+	
+	git rebase -i HEAD~X [X being the number of commits you want to edit]
+	
+Then in your editor of choice a file with the selected commits will be shown. There will be a bunch of options to do as you please with your commits. When you save and close this file a new file will popup, there you can do your edits.
 
 ---
 

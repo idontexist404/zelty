@@ -2,7 +2,7 @@
 
 Status: #🌱
 
-Tags: [[WTF is zettelkasten]], [[Evergreen notes]], [[Atomic notes]]
+Tags: [[Zettelkasten]]
 
 # Why Zettelkasten? 
 
@@ -31,6 +31,7 @@ Zettelkasten forces you to take everything that's inside your head and put it on
 Such externalization of knowledge have important benefits. A good one is clarity of a subject: meaning that you can explain (your) ideas to other people. This way you can detect blind spots in your understanding.
 
 ---
+
 # References
 
 https://www.youtube.com/watch?v=-r6fnC5lVfE

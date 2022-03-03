@@ -2,9 +2,9 @@
 
 Status: #🌱 #⚛️
 
-Tags: [[Why zettelkasten]], [[Evergreen notes]], [[Atomic notes]]
+Tags:
 
-# WTF is Zettelkasten?
+# Zettelkasten?
 
 Zettelkasten is a note taking methodology that focus on collecting ideas or concepts slowly and deliberately. 
 
@@ -15,6 +15,7 @@ After that make a link of your idea to other similar ideas.
 That's it.
 
 ---
+
 # References
 
 https://www.youtube.com/watch?v=-r6fnC5lVfE
@@ -24,4 +25,3 @@ https://www.youtube.com/watch?v=-r6fnC5lVfE
 https://www.youtube.com/watch?v=E6ySG7xYgjY
 
 <iframe src="https://www.youtube.com/embed/E6ySG7xYgjY"></iframe>
-

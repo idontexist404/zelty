@@ -2,11 +2,12 @@
 
 Status: #🌱
 
-Tags: [[Atomic notes]], [[WTF is zettelkasten]], [[Why zettelkasten]]
+Tags: [[Zettelkasten]]
 
 # Evergreen notes 
 
 
 
 ---
+
 # References
